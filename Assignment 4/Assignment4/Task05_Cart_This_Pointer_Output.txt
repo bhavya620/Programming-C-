@@ -1,4 +1,0 @@
-324.00
-Direct object total: 40.00
-Reference total: 70.00
-Dynamic object total: 100.00

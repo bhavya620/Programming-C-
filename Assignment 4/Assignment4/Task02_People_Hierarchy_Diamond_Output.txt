@@ -1,3 +1,0 @@
-Person Student Staff TA 
-Name: Kavya, ID: 201, Programme: CSE, Department: Computer Science
-Person Student Arun fellowship: Rs 18000
