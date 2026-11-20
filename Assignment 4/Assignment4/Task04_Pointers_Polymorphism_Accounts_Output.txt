@@ -1,0 +1,13 @@
+Non-virtual rate: 3.5
+Virtual rate: 4
+Sliced copy virtual rate: 3.5
+Unique pointer fleet:
+3.5
+4
+End of main
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
+Account destroyed
+SeniorAccount destroyed
+Account destroyed

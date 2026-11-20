@@ -1,0 +1,5 @@
+Payroll:
+Anita (ID 101): Rs 79000
+Bala (ID 102): Rs 42600
+Charan (ID 103): Rs 20000
+Total payroll: Rs 141600

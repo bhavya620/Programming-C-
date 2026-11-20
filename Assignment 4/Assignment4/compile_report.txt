@@ -1,0 +1,6 @@
+Task01_Class_Design_Review.cpp: OK
+Task02_People_Hierarchy_Diamond.cpp: OK
+Task03_Constructors_Member_Classes.cpp: OK
+Task04_Pointers_Polymorphism_Accounts.cpp: OK
+Task05_Cart_This_Pointer.cpp: OK
+Task06_Vehicle_Rental_Fleet.cpp: OK
